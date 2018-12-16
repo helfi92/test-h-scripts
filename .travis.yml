@@ -1,0 +1,6 @@
+dist: trusty
+language: node_js
+node_js: '10'
+install: yarn
+script: yarn test
+after_success: h-scripts travis-after-success
