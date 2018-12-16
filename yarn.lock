@@ -4000,10 +4000,10 @@ gulplog@^1.0.0:
   dependencies:
     glogg "^1.0.0"
 
-h-scripts@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/h-scripts/-/h-scripts-0.0.2.tgz#67d6539183ce6f6de67c61d431f96945b8ae8cc9"
-  integrity sha512-Zcq2VEQHuTJBkS8lIQzZ2+uU6O2EYVszU71XbOtPZhNkDW/7KXS/eRAbHQpX4OxjG/nQHXDJKs/SQvMQqAXeNg==
+h-scripts@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/h-scripts/-/h-scripts-0.0.3.tgz#4f5d5398864fb467e1906f161dc043c45d14521f"
+  integrity sha512-I2zWKWNhcdmft30dPVy+fg6scKk/znUTniqlWzDlftpm2HYkgKtctiVU3C7zlM05agIkZuBJJVa0La2xyiM4rA==
   dependencies:
     cross-spawn "^6.0.5"
     read-pkg-up "^4.0.0"
