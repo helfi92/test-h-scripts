@@ -1,10 +1,10 @@
 {
   "name": "test-h-scripts",
   "version": "0.0.0-semantically-released",
-  "main": "index.js",
+  "main": "./index.js",
   "license": "MIT",
   "scripts": {
-    "build": "neutrino build",
+    "build": "neutrino build && scripts/copyFiles",
     "test": "neutrino test",
     "release": "h-scripts travis-after-success"
   },
