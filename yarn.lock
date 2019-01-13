@@ -4143,10 +4143,10 @@ gulplog@^1.0.0:
   dependencies:
     glogg "^1.0.0"
 
-h-scripts@^0.0.10:
-  version "0.0.10"
-  resolved "https://registry.yarnpkg.com/h-scripts/-/h-scripts-0.0.10.tgz#03684157c3a2cc278413375295558780b96e96c3"
-  integrity sha512-EeksKClFYcOzAbQVFZgTfuQoXkS5vZrTiuRwrbevgSX0TE948ie4sfmCCkwvYzIGWhrOluFJPwmkpjh1o5Or3Q==
+h-scripts@^0.0.11:
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/h-scripts/-/h-scripts-0.0.11.tgz#5279be2aadd8701af783d066f471e5dc78a40f58"
+  integrity sha512-IG9K5WY78ZweDWRzNwB8fNVLnJLYH/+TxjeBiE53x2cBVyKgKcjHJnAM3AKKgIShUfq5fqtlCLNjjawGndgmqA==
   dependencies:
     "@semantic-release/changelog" "^3.0.1"
     "@semantic-release/git" "^7.0.5"
